@@ -1,9 +1,9 @@
 # CryptonomyPDF
-Encrypt and decrypt easily any pdf file
+Encrypt, decrypt, watermark, and merge PDF files easily.
 
 **Manual install**
 
-Since Cryptonomy is written in Python, the easiest way to start it is by simply running it as a Python program. The next sections describe what you will need to install & be able to run Cryptonomy, and how to get it installed.
+Since CryptonomyPDF is written in Python, the easiest way to start it is by simply running it as a Python program. The next sections describe what you will need to install & be able to run CryptonomyPDF, and how to get it installed.
 
 **Initial install**
 
